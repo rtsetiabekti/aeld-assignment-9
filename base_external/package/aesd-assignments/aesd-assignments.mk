@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = '035fd381caccab5bf4da4d9bb01ec0a7643db0d9'
+AESD_ASSIGNMENTS_VERSION = '1cf419b7c93f88ea2670375e5e10d8ac818186c5'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-rtsetiabekti.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
